@@ -1,4 +1,4 @@
-# Heart on our+ sleeve, story on our+ lips, tech in our+ veins
+# Heart on our+ sleeve, story on our+ lips, nature in our+ veins
 
 Hi, we+ are **Nest** (Neston Linden Toftwyn), they/them/ask us+: a designer, coder and writer based in Yankton, South Dakota.
 

@@ -16,7 +16,7 @@ We+ like making things that are easy to use and easy to love: clean, accessible 
 - **[Plurapack](https://github.com/Techy-Nature/Plurapack)** *(alpha)*: A bot for plural communities on Stoat and Fluxer, with its own web dashboard.
 - **[NestSigner](https://github.com/Techy-Nature/NestSigner)**: An Android app for making signing keys and signing APKs, no command line needed.
 - **[NestASAR](https://github.com/Techy-Nature/NestASAR)**: An Android app for packing, extracting and browsing Electron .asar files.
-- * **[NestSync](https://github.com/Techy-Nature/NestSync)**: An Android, Linux and MacOS app for keeping Git repos synced up with the local copies.
+- **[NestSync](https://github.com/Techy-Nature/NestSync)**: An Android, Linux and MacOS app for keeping Git repos synced up with the local copies.
 
 ### Photography
 
